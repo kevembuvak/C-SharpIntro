@@ -26,7 +26,7 @@ namespace DegerVeReferansTipler
             // sayilar2 = [4, 5, 6]
             // sayilar1 = sayilar2
             // sayilar2[0] = 50
-            // bundan sonra sayilar1[0] da 50 olur, aynı referansa sahipler çünkü, aynı değerlere bakıyolar 
+            // bundan sonra sayilar1[0] da 50 olur, aynı referansa sahipler çünkü, aynı değerlere bakıyolar bu yüzden böyle olur
         }
     }
 }
