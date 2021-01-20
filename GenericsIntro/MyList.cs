@@ -25,5 +25,15 @@ namespace GenericsIntro
             items[items.Length - 1] = item; //tempArray.Length de olabilirdi
 
         }
+
+        public int Length
+        {
+            get { return items.Length; }
+        }
+
+        public Type[] Items
+        {
+            get { return items; }
+        }
     }
 }
