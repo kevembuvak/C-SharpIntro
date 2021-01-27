@@ -1,0 +1,7 @@
+Normalizasyon - veri kaçağını engelleme
+mesela her il için isim isim yazmak yerine onlara da id vermeliyiz
+(İstanbul ve Istanbul aynı şeyi belirtse de farklı verilerdir nu yüzden veri kaçar)
+
+PK - primary key
+UK - unique key
+FK - foreign key - başka tabloayla bağlı
